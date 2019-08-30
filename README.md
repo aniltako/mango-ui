@@ -1,5 +1,7 @@
 ## mango-ui
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/aniltako/mango-ui.svg)](https://greenkeeper.io/)
+
 Clone this project to your local workspace.<br/>
 `cd \path\to\project`<br/>
 
