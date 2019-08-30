@@ -1,0 +1,17 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "src/components/Footer/package.json",
+        "src/components/Header/package.json",
+        "src/containers/Home/package.json",
+        "src/containers/Login/package.json",
+        "src/containers/Register/package.json",
+        "src/views/Home/package.json",
+        "src/views/Login/package.json",
+        "src/views/Register/package.json"
+      ]
+    }
+  }
+}
